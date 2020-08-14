@@ -8,7 +8,6 @@ My hobbies is play games (🎮), watch basketball (🏀) and search something co
 
 📫 You can find me on:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/moreirath_)](https://twitter.com/moreirath_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thi-moreira)](https://www.linkedin.com/in/thi-moreira)
 <!--
 **gamazyn/gamazyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
