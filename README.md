@@ -2,7 +2,7 @@
 
 My name is Thiago Moreira and I'm the fastest man alive... I mean, a multidisciplinary student from UFBA (Federal University of Bahia) and Front-End Developer. Always trying to improve I constantly seek for new experiencies, like back in the day when I was a Orchestra Musician (🎻) or a seller (🏬). I'm a member of the [ICON LAB](http://icon.ufba.br) and we have a lot of projects that could interest you like [Radioca Loop](http://beat.radioca.com.br). 
 
-My hobbies is play games (🎮), watch basketball (🏀) and search something cool in YouTube (📺).
+My hobbies are play games (🎮), watch basketball (🏀) and search something cool in YouTube (📺).
 
 🌱 I’m currently learning React and NodeJS, besides Laravel and Flutter.
 
