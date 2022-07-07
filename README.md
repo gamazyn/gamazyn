@@ -4,7 +4,7 @@ My name is Thiago Moreira and I'm the fastest man alive... I mean, a multidiscip
 
 My hobbies are play games (🎮), watch basketball (🏀) and search something cool in YouTube (📺).
 
-🌱 I’m currently learning React and NodeJS, besides Laravel.
+🌱 I’m currently learning Angular and ASP.NET.
 
 📫 You can find me on:
 
